@@ -52,3 +52,8 @@ p {
 }
 
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
+
+.custom-btn:hover {
+    font-size:  15px;
+    color: #676767;
+}
