@@ -64,4 +64,22 @@ p {
     
 }
 
+/* customising btn-2 */
 
+.btn-2 {
+    background: #8f1462;
+    box-shadow: powderblue ;
+    color: #040303;
+    transition-delay: 0.5s;
+    transition-timing-function: ease-in;
+    transition-duration: 0.5s;
+
+
+}
+
+.btn-2:hover {
+    color: gold;
+    font-size: 10px;
+    font-family: monospace;
+    background: #ac145b;
+}
