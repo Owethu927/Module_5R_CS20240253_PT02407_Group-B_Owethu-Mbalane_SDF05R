@@ -83,3 +83,19 @@ p {
     font-family: monospace;
     background: #ac145b;
 }
+
+.btn-3 {
+    background: #0459a9;
+    box-shadow: #054a56;
+    border-color: #1f525b;
+    transition-duration: 0.5s;
+    transition-timing-function: 0.7s;
+    transition-delay: 0.2s;
+}
+
+.btn-3:hover {
+    transform: translateY(-10px);
+    transform: rotate(360deg);
+    color: #e5f970fb;
+    background: #3f93e2;
+}

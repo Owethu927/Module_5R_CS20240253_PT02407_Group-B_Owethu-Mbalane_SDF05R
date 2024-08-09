@@ -7,3 +7,12 @@ Customising BNT-1
 
 I am proud that l was able to bring my vision into live for the first button and create something simple yet appealing to the eye.
 
+BTN-2 
+- The design choice for btn-2 was to add translation to the hover and change color when the hover happens and making the 'click here' change color and add text-shadow.
+
+- l am proud that l achieved a different and more creative button with btn-2 
+
+- l faced no challanges as l am understanding more how the css properties and how l make them work together
+
+
+
