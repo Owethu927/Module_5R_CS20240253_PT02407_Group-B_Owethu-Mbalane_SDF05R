@@ -14,5 +14,12 @@ BTN-2
 
 - l faced no challanges as l am understanding more how the css properties and how l make them work together
 
+BTN-3 
+- The design choice for this button was to make it rotate and add some animation to it 
+
+-The challanges l faced is that l could not add a lot of animation as they were going to clash and 
+
+- l am proud that l could be more creative with the third button
+
 
 
